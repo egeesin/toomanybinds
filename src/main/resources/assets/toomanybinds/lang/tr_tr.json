@@ -1,0 +1,10 @@
+{
+  "category.toomanybinds": "Too Many Binds (Çok Fazla Tuş Ataması)",
+  "key.toomanybinds.launcher": "Tuş Komut Başlatıcısı",
+  "key.toomanybinds.favorite": "Tuş atamasını favorilere ekle",
+
+  "text.autoconfig.toomanybinds.title": "Too Many Binds (Çok Fazla Tuş Ataması)",
+  "text.autoconfig.toomanybinds.option.hideBoundKeys": "Sadece atanmayan tuş komutlarını göster",
+  "text.autoconfig.toomanybinds.option.maxSuggestions": "Gösterilecek en fazla öneri sayısı",
+  "text.autoconfig.toomanybinds.option.bgOpacity": "Arkaplan opaklığı"
+}
